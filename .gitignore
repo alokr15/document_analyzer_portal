@@ -1,2 +1,12 @@
 venv
 .env
+__pycache__/
+logs/
+*.pyc
+documet_analyzer_portal.egg-info/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.log
